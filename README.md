@@ -8,3 +8,5 @@ Each of my notes will contain 4 parts:
 - gdb.history
 - exp 
 
+
+I am new to this area and look forward to communicating and learning.
